@@ -10,7 +10,7 @@ function binaryExpo(base, power) {
 
 console.log(binaryExpo(2, 10));
 
-//======================================= ==O(log n)
+//========================================O(log n)
 
 function binaryExponential(base, power) {
   let answer = 1;
